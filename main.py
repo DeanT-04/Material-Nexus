@@ -1,5 +1,4 @@
-# .env
-DEEPSEEK_API_KEY='sk-79752571b38647f09b9f100486963ead'
+
 
 # main.py
 import os
